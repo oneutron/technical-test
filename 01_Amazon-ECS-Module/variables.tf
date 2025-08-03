@@ -1,5 +1,5 @@
 variable "profile" {
-  description = "AWS Region"
+  description = "AWS Profile"
   type        = string
 }
 

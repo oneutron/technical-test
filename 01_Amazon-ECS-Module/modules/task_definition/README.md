@@ -1,4 +1,4 @@
-# Networking (VPC, Subnet and Security Group) Terraform Module
+# AWS ECS Task Definition Terraform Module
 
 ## Features
 - [x] Create ECS task definition
